@@ -4,4 +4,4 @@ This [modlet](https://drive.google.com/file/d/1I-iIB-00DXQMZYoiC7qUuBsGoa6M5uOX/
 The heat generated for screamers will remain the same, so they will still spawn on you as you mine! :DDD
 
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/ReadMe.md)

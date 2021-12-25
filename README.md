@@ -1,7 +1,7 @@
 # My-7DTD-Modlets
 Hello! This is a pack of all my seperate mods! They are all XML mods which means only the host client/server needs to have them downloaded!
 ## Links
-Each Mod will have the information with screenshots about the mod and the download link, just click on the one you want to see!
+Each Mod will have the information with screenshots about the mod and the download link, once downloaded and extracted, each mod contains a ReadMe on how to edit the mod! It's very simple and straightforward!, just click on the one you want to see!
 + [Be Quiet! Alpha 20](../main/mds/be-quiet.md)
 + [Bigger Animals! Alpha 20](../main/mds/bigger-animals.md)
 + [Cars With Wheels! Alpha 20](../main/mds/car-wheels.md) 

@@ -3,4 +3,4 @@ This [modlet](https://drive.google.com/file/d/1IdFbBIof17izmiMhhNXYSTJSeFpBRzB3/
 
 
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/README.md)

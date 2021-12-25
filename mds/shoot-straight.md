@@ -3,4 +3,4 @@ This [modlet](https://drive.google.com/file/d/1Aww6hN5Qs99JYsUQWMlLLdgZ_BgDqaJH/
 ### Aiming
 + Any and all items with spread (guns, motor tools, ect) have no been set to none.
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/README.md)

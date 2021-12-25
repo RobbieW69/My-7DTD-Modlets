@@ -6,4 +6,4 @@ This mod took me MANY hours to make as it is alot of small and tedious edits.
 If you use this, please give me credit, thankyou!
 
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/README.md)

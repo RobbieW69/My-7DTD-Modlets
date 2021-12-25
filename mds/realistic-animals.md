@@ -9,4 +9,4 @@ This [modlet](https://drive.google.com/file/d/1ig0oPD6Xnvi3B80g-Z9xtXrbAvO-At4d/
 + Dire Wolf: Exp Gain increased from 750 to 1250.
 + Coyote: Health reduced from 100 to 70.
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/README.md)

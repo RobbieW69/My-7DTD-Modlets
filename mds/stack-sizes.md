@@ -4,4 +4,4 @@ However I've included a ReadMe along with it that teaches you how to edit it to 
 Very simple and easy to follow!
 
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/README.md)

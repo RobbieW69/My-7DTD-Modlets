@@ -5,4 +5,4 @@ This [modlet]() makes clicking heads much more impactful!
 ### Ammo
 + All ammo types now do much more headshot damage specifically per caliber.
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/README.md)

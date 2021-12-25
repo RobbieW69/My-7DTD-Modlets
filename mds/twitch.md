@@ -15,4 +15,4 @@ This [mod](https://drive.google.com/file/d/1jFbpnmgsmudkeuw79Z3p_vqa7vGZWdvW/vie
 I turned them off this way simply because they really make it impossible to play.   
 
 
-[Click Here to Return to Mod List](../main/ReadMe.md)
+[Click Here to Return to Mod List](../../main/README.md)

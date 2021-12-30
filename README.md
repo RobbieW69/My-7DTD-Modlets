@@ -17,6 +17,8 @@ Each Mod will have the information with screenshots about the mod and the downlo
 + [Shoot Straight! Alpha 20](../main/mds/shoot-straight.md)
 + [Twitch Fixes! Alpha 20](../main/mds/twitch.md)
 
+Alternatively, you can go to the [google drive](https://drive.google.com/drive/folders/1PSzviV_-JcrjJN_-GpcIbEpnISnqTKt3?usp=sharing) folder itself directly and dowload as many at once as you'd like.
+
 ### Credits
 That's all folks, if you enjoy them I would say the following people really helped influence me/helped me to make these;    
 
